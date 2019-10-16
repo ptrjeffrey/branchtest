@@ -8,4 +8,5 @@ dev change 1.0.3
 dev change 1.0.4
 dev change 1.0.5
 dev change 1.0.6
+dev change 1.0.7
 ```
